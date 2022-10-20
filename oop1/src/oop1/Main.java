@@ -23,7 +23,7 @@ public class Main {
         product3.setUnitPrice(15000);
         product3.setDiscount(12);
         product3.setUnitsInStock(7);
-        product3.setImageUrl("xyzji.jpg");
+        product3.setImageUrl("xyzj.jpg");
 
         Product[] products = {product1, product2, product3};
 

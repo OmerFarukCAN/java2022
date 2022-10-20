@@ -40,13 +40,13 @@ public class Main {
 
         System.out.println(krediler[1]);
 
-        System.out.println("------------");
+        System.out.println("-------------");
 
         for (int i = 0; i < krediler.length; i++) {
             System.out.println(krediler[i]);
         }
 
-        System.out.println("------------");
+        System.out.println("-------------");
 
         for (var kredi : krediler) {
             System.out.println(kredi);
